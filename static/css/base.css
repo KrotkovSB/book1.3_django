@@ -15,12 +15,13 @@ header h1 a {
 
 }
 
-.nan-left {
+.nav-left {
     margin-right: auto;
 }
 
-.nan-right {
-    margin-right: auto;
+.nav-right {
+    display: flex;
+    padding-top: 2rem;
 }
 
 .post-entry {
